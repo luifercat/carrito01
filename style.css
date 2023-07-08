@@ -78,3 +78,17 @@ html {
         border-radius: 3px;
         
     }
+
+    .contenedor-cesta {
+        display: block;
+        margin: 30px;
+        padding: 5px 10px-;
+        background-color: #dddddd;
+        width: 20%;
+        height: 300px;
+        padding: 10px;
+        border: 1px solid #2e20eb;
+        padding: 20px;
+        box-shadow: 10px 10px 10px #ffbcbc;
+        text-align: center;
+    }
